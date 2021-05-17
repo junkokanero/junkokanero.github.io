@@ -14,7 +14,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
     		    	//{image : 'black1.jpg'}, 
 			{image : 'earring_F_F_M_2_N.jpg'}, 
     			{image : 'ring_F_F_M_N.jpg'}, 
-    			{image : 'black3.jpg'}, 
+    			{image : 'necktale_M_F_U_N.jpg'}, 
     			{image : 'black4.jpg'}, 
     			{image : 'black5.jpg'}, 
     			{image : 'black6.jpg'}
