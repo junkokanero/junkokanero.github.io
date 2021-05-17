@@ -11,8 +11,8 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{image : 'black1.jpg'}, 
-			//{image : 'pos8.jpg'}, 
+    		    	//{image : 'black1.jpg'}, 
+			{image : 'pos8.jpg'}, 
     			{image : 'black2.jpg'}, 
     			{image : 'black3.jpg'}, 
     			{image : 'black4.jpg'}, 
