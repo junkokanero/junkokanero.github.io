@@ -11,7 +11,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	//{image : 'black1.jpg'}, 
-			{image : 'bf1_nc.jpg'}, 
+			{image : 'pos8.jpg'}, 
     			{image : 'black2.jpg'}, 
     			{image : 'black3.jpg'}, 
     			{image : 'black4.jpg'}, 
