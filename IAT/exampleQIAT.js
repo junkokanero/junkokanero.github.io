@@ -15,9 +15,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			{image : 'earring_F_F_M_2_N.jpg'}, 
     			{image : 'ring_F_F_M_N.jpg'}, 
     			{image : 'necktale_M_F_U_N.jpg'}, 
-    			{image : 'black4.jpg'}, 
-    			{image : 'black5.jpg'}, 
-    			{image : 'black6.jpg'}
+    			{image : 'hairband_F_F_M_N.jpg'}, 
+    			{image : 'bag_M_F_U_5_N.jpg'}, 
+    			{image : 'tie_F_M_U.jpg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
