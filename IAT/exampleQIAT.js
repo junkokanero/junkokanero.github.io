@@ -12,7 +12,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	//{image : 'black1.jpg'}, 
-			{image : 'tutku1.jpg'}, 
+			{image : 'earring.jpg'}, 
     			{image : 'black2.jpg'}, 
     			{image : 'black3.jpg'}, 
     			{image : 'black4.jpg'}, 
