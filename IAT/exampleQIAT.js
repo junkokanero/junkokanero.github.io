@@ -12,12 +12,12 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	//{image : 'black1.jpg'}, 
-			{image : 'earring_F_F_M_2_N.jpg'}, 
-    			{image : 'ring_F_F_M_N.jpg'}, 
-    			{image : 'necktale_M_F_U_N.jpg'}, 
-    			{image : 'hairband_F_F_M_N.jpg'}, 
-    			{image : 'bag_M_F_U_5_N.jpg'}, 
-    			{image : 'tie_F_M_U.jpg'}
+			{image : 'cake_M_F_U.jpg.jpg'}, 
+    			{image : 'coat_M_M_M.jpg.jpg'}, 
+    			{image : 'eyeglass_F_N.jpg.jpg'}, 
+    			{image : 'glove_M_N.jpg'}, 
+    			{image : 'hat_M_M_M.jpg'}, 
+    			{image : 'jacket_F_M_U_N.jpg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
