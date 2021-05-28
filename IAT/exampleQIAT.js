@@ -6,7 +6,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 		category1 : {
 			name : 'Clothes', //Will appear in the data.
 			title : {
-				media : {word : 'Black people'}, //Name of the category presented in the task.
+				media : {word : 'Clothes'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -26,13 +26,13 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 		category2 :	{
 			name : 'Tools', //Will appear in the data.
 			title : {
-				media : {word : 'White people'}, //Name of the category presented in the task.
+				media : {word : 'Tools'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {image : 'hammer_M_M_M.jpg'}, 
-    			{image : 'jilet2.jpg'}, 
+    			{image : 'Picture4.jpg'}, 
     			{image : 'mixer_M_F_U.jpg'}, 
     			{image : 'nailclipper_M_N.jpg'}, 
     			{image : 'pliers_F_M_U.jpg'}, 
