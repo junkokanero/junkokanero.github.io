@@ -37,13 +37,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Tyron'},
-					{word: 'Malik'},
-					{word: 'Terrell'},
-					{word: 'Jazmin'},
-					{word: 'Tiara'},
-					{word: 'Shanice'}
-				],
+    		    	//{image : 'black1.jpg'}, 
+			{image : 'axe_F_M_U.jpg'}, 
+    			{image : 'blender_M_F_U.jpg'}, 
+    			{image : 'bottle_F_N.jpg'}, 
+    			{image : 'bottleopener_M_N.jpg'}, 
+    			{image : 'cake_M_F_U.jpg'}, 
+    			{image : 'drill_F_M_U.jpg'}
+			], 
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
@@ -55,13 +56,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Jake'},
-					{word: 'Connor'},
-					{word: 'Bradley'},
-					{word: 'Allison'},
-					{word: 'Emma'},
-					{word: 'Emily'}
-				],
+    		    	//{image : 'black1.jpg'}, 
+			{image : 'axe_F_M_U.jpg'}, 
+    			{image : 'blender_M_F_U.jpg'}, 
+    			{image : 'bottle_F_N.jpg'}, 
+    			{image : 'bottleopener_M_N.jpg'}, 
+    			{image : 'cake_M_F_U.jpg'}, 
+    			{image : 'drill_F_M_U.jpg'}
+			], 
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
@@ -74,15 +76,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'awful'},
-					{word: 'failure'},
-					{word: 'agony'},
-					{word: 'hurt'},
-					{word: 'horrible'},
-					{word: 'terrible'},
-					{word: 'nasty'},
-					{word: 'evil'}
-				],
+    		    	//{image : 'black1.jpg'}, 
+			{image : 'axe_F_M_U.jpg'}, 
+    			{image : 'blender_M_F_U.jpg'}, 
+    			{image : 'bottle_F_N.jpg'}, 
+    			{image : 'bottleopener_M_N.jpg'}, 
+    			{image : 'cake_M_F_U.jpg'}, 
+    			{image : 'drill_F_M_U.jpg'}
+			], 
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
@@ -95,21 +96,20 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'laughter'},
-					{word: 'happy'},
-					{word: 'glorious'},
-					{word: 'joy'},
-					{word: 'wonderful'},
-					{word: 'peace'},
-					{word: 'pleasure'},
-					{word: 'love'}
-				],
+    		    	//{image : 'black1.jpg'}, 
+			{image : 'axe_F_M_U.jpg'}, 
+    			{image : 'blender_M_F_U.jpg'}, 
+    			{image : 'bottle_F_N.jpg'}, 
+    			{image : 'bottleopener_M_N.jpg'}, 
+    			{image : 'cake_M_F_U.jpg'}, 
+    			{image : 'drill_F_M_U.jpg'}
+			], 
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
 
 			base_url : {//Where are your images at?
-				image : '/implicit/user/yba/pipexample/biat/images/'
+				image : 'https://junkokanero.github.io/IAT/images/'
 			},
 
 			//nBlocks : 7, This is not-supported anymore. If you want a 5-block IAT, change blockSecondCombined_nTrials to 0.
