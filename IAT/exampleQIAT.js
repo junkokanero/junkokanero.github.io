@@ -33,8 +33,6 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
     			{image : 'swimsuit_M_F_U.jpg'},
        			{image : 'tie_F_M_U.jpg'}, 
     			{image : 'umbrella_M_N.jpg'}, 
-    			{image : 'wallet_M_M_M.jpg'}, 
-    			{image : 'watch_F_N.jpg'}, 
     			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -47,12 +45,28 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'hammer_M_M_M.jpg'}, 
-    			{image : 'Picture4.jpg'}, 
+    		    {image : 'axe_F_M_U.jpg'}, 
+    			{image : 'blender_M_F_U.jpg'}, 
+    			{image : 'bottle_F_N.jpg'}, 
+    			{image : 'bottleopener_M_N.jpg'}, 
+    			{image : 'cake_M_F_U.jpg'}, 
+    			{image : 'drill_F_M_U.jpg'},
+			{image : 'glass_M_N.jpg'}, 
+    			{image : 'hammer_M_M_M.jpg'}, 
+    			{image : 'metre_M_M_M.jpg'}, 
     			{image : 'mixer_M_F_U.jpg'}, 
-    			{image : 'nailclipper_M_N.jpg'}, 
+    			{image : 'nailclipper_M_N.jpg'},
+			{image : 'pan_F_F_M.jpg'}, 
     			{image : 'pliers_F_M_U.jpg'}, 
-    			{image : 'rollingpin_M_F_U.jpg'},	
+    			{image : 'rollingpin_M_F_U.jpg'}, 
+    			{image : 'scissors_M_N.jpg'}, 
+    			{image : 'screwdriver_M_M_M.jpg'},
+			{image : 'spatula_F_F_M.jpg'}, 
+    			{image : 'spoon_F_N.jpg'},
+			{image : 'tooth_F_N.jpg'}, 
+    			{image : 'tweezers_F_F_M.jpg'}, 
+    			{image : 'woodenspoon_F_F_M.jpg'},
+			{image : 'wrench_F_M_U.jpg'}, 
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
