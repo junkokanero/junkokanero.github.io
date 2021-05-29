@@ -33,9 +33,9 @@
 				},
 				//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 				category1 : {
-					name : 'Black people', //Will appear in the data and in the default feedback message.
+					name : 'clothes', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Black people'}, //Name of the category presented in the task.
+						media : {word : 'clothes'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -51,9 +51,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				category2 :	{
-					name : 'White people', //Will appear in the data and in the default feedback message.
+					name : 'tools', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'White people'}, //Name of the category presented in the task.
+						media : {word : 'tools'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -121,16 +121,16 @@
 				
 				////In each block, we can include a number of mini-blocks, to reduce repetition of same group/response.
 				////If you set the number of trials in any block to 0, that block will be skipped.
-				blockAttributes_nTrials : 20,
-				blockAttributes_nMiniBlocks : 5,
+				blockAttributes_nTrials : 25,
+				blockAttributes_nMiniBlocks : 25,
 				blockCategories_nTrials : 20,
-				blockCategories_nMiniBlocks : 5,
+				blockCategories_nMiniBlocks : 25,
 				blockFirstCombined_nTrials : 20,
 				blockFirstCombined_nMiniBlocks : 5,
 				blockSecondCombined_nTrials : 40, //Change to 0 if you want 5 blocks (you would probably want to increase blockFirstCombined_nTrials).
 				blockSecondCombined_nMiniBlocks : 10, 
-				blockSwitch_nTrials : 28,
-				blockSwitch_nMiniBlocks : 7,
+				blockSwitch_nTrials : 25,
+				blockSwitch_nMiniBlocks : 25,
 	
 
 				//Should we randomize which attribute is on the right, and which on the left?
