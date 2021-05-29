@@ -62,7 +62,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
     			{image : 'wallet_M_M_M.jpg'}, 
     			{image : 'watch_F_N.jpg'}
 			], 
-			], 
+			 
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
