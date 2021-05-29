@@ -37,7 +37,8 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	//{image : 'black1.jpg'}, 
+    		    	//
+			{image : 'black1.jpg'}, 
 			{image : 'axe_F_M_U.jpg'}, 
     			{image : 'blender_M_F_U.jpg'}, 
     			{image : 'bottle_F_N.jpg'}, 
