@@ -113,7 +113,7 @@
 	
 
 				base_url : {//Where are your images at?
-					image : '/implicit/user/yba/pipexample/biat/images/'
+					image : 'https://junkokanero.github.io/IAT/images/'
 				},
 	
 
