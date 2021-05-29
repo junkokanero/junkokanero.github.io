@@ -121,16 +121,16 @@
 				
 				////In each block, we can include a number of mini-blocks, to reduce repetition of same group/response.
 				////If you set the number of trials in any block to 0, that block will be skipped.
-				blockAttributes_nTrials : 25,
-				blockAttributes_nMiniBlocks : 25,
+				blockAttributes_nTrials : 24,
+				blockAttributes_nMiniBlocks : 24,
 				blockCategories_nTrials : 20,
-				blockCategories_nMiniBlocks : 25,
+				blockCategories_nMiniBlocks : 24,
 				blockFirstCombined_nTrials : 20,
 				blockFirstCombined_nMiniBlocks : 5,
 				blockSecondCombined_nTrials : 40, //Change to 0 if you want 5 blocks (you would probably want to increase blockFirstCombined_nTrials).
 				blockSecondCombined_nMiniBlocks : 10, 
 				blockSwitch_nTrials : 25,
-				blockSwitch_nMiniBlocks : 25,
+				blockSwitch_nMiniBlocks : 24,
 	
 
 				//Should we randomize which attribute is on the right, and which on the left?
