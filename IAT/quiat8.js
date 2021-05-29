@@ -123,7 +123,7 @@
 			////If you set the number of trials in any block to 0, that block will be skipped.
 			blockAttributes_nTrials : 20,
 			blockAttributes_nMiniBlocks : 5,
-			blockCategories_nTrials : 20,
+			blockCategories_nTrials : 40,
 			blockCategories_nMiniBlocks : 5,
 			blockFirstCombined_nTrials : 20,
 			blockFirstCombined_nMiniBlocks : 5,
