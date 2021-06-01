@@ -83,7 +83,7 @@
 						{word: 'female_7.jpg'},
 						{word: 'female_9.jpg'},
 						{word: 'female_10.jpg'},
-						{word: 'female_11'},
+						{word: 'female_11.jpg'},
 						{word: 'female_12.jpg'},
 						{word: 'female_13.jpg'},
 						{word: 'female_15.jpg'},
@@ -151,14 +151,14 @@
 				
 				////In each block, we can include a number of mini-blocks, to reduce repetition of same group/response.
 			////If you set the number of trials in any block to 0, that block will be skipped.
-			blockAttributes_nTrials : 20,
+			blockAttributes_nTrials : 24,
 			blockAttributes_nMiniBlocks : 4,
 			blockCategories_nTrials : 48,
 			blockCategories_nMiniBlocks : 4,
-			blockFirstCombined_nTrials : 24,
+			blockFirstCombined_nTrials : 48,
 			blockFirstCombined_nMiniBlocks : 4,
 			blockSecondCombined_nTrials : 48, //Change to 0 if you want 5 blocks (you would probably want to increase blockFirstCombined_nTrials).
-			blockSecondCombined_nMiniBlocks : 25, 
+			blockSecondCombined_nMiniBlocks : 4, 
 			blockSwitch_nTrials : 28,
 			blockSwitch_nMiniBlocks : 7,
 	
