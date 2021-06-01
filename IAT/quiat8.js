@@ -159,7 +159,7 @@
 			blockFirstCombined_nMiniBlocks : 4,
 			blockSecondCombined_nTrials : 48, //Change to 0 if you want 5 blocks (you would probably want to increase blockFirstCombined_nTrials).
 			blockSecondCombined_nMiniBlocks : 4, 
-			blockSwitch_nTrials : 28,
+			blockSwitch_nTrials : 48,
 			blockSwitch_nMiniBlocks : 7,
 	
 
