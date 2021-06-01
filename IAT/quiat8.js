@@ -68,14 +68,13 @@
 					//Stimulus css
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
-				attribute1 :
-				{
-					name : 'Kadın',
-					title : {
-						media : {word : 'Kadın'},
-						css : {color:'#0000FF','font-size':'1.8em'},
-						height : 4 //Used to position the "Or" in the combined block.
-					},
+				attribute1 :	{
+				name : 'Kadın', //Will appear in the data.
+				title : {
+				media : {word : 'Kadın'}, //Name of the category presented in the task.
+				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				height : 4 //Used to position the "Or" in the combined block.
+			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'female_2.jpg'},
 						{word: 'female_4.jpg'},
@@ -105,14 +104,13 @@
 					//Stimulus css
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
-				attribute2 :
-				{
-					name : 'Erkek',
-					title : {
-						media : {word : 'Erkek'},
-						css : {color:'#0000FF','font-size':'1.8em'},
-						height : 4 //Used to position the "Or" in the combined block.
-					},
+				attribute2 :	{
+				name : 'Erkek', //Will appear in the data.
+				title : {
+				media : {word : 'Erkek'}, //Name of the category presented in the task.
+				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				height : 4 //Used to position the "Or" in the combined block.
+			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'male_3.jpg'},
 						{word: 'male_4.jpg'},
