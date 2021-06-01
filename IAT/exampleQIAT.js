@@ -75,6 +75,79 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
+attribute1 :	{
+				name : 'Kadın', //Will appear in the data.
+				title : {
+				media : {word : 'Kadın'}, //Name of the category presented in the task.
+				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				height : 4 //Used to position the "Or" in the combined block.
+			}, 
+					stimulusMedia : [ //Stimuli content as PIP's media objects
+						{word: 'female_2.jpg'},
+						{word: 'female_4.jpg'},
+						{word: 'female_5.jpg'},
+						{word: 'female_6.jpg'},
+						{word: 'female_7.jpg'},
+						{word: 'female_9.jpg'},
+						{word: 'female_10.jpg'},
+						{word: 'female_11.jpg'},
+						{word: 'female_12.jpg'},
+						{word: 'female_13.jpg'},
+						{word: 'female_15.jpg'},
+						{word: 'female_16.jpg'},
+						{word: 'female_18.jpg'},
+						{word: 'female_19.jpg'},
+						{word: 'female_20.jpg'},
+						{word: 'female_21.jpg'},
+						{word: 'female_23.jpg'},
+						{word: 'female_24.jpg'},
+						{word: 'female_25.jpg'},
+						{word: 'female_26.jpg'},
+						{word: 'female_27.jpg'},
+						{word: 'female_28.jpg'},
+						{word: 'female_29.jpg'},
+						{word: 'female_30.jpg'},
+					],
+					//Stimulus css
+					stimulusCss : {color:'#31940F','font-size':'1.8em'}
+				},
+				attribute2 :	{
+				name : 'Erkek', //Will appear in the data.
+				title : {
+				media : {word : 'Erkek'}, //Name of the category presented in the task.
+				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				height : 4 //Used to position the "Or" in the combined block.
+			}, 
+					stimulusMedia : [ //Stimuli content as PIP's media objects
+						{word: 'male_3.jpg'},
+						{word: 'male_4.jpg'},
+						{word: 'male_5.jpg'},
+						{word: 'male_6.jpg'},
+						{word: 'male_7.jpg'},
+						{word: 'male_8.jpg'},
+						{word: 'male_9.jpg'},
+						{word: 'male_10.jpg'},
+						{word: 'male_11.jpg'},
+						{word: 'male_12.jpg'},
+						{word: 'male_13.jpg'},
+						{word: 'male_14.jpg'},
+						{word: 'male_15.jpg'},
+						{word: 'male_16.jpg'},
+						{word: 'male_17.jpg'},
+						{word: 'male_18.jpg'},
+						{word: 'male_19.jpg'},
+						{word: 'male_20.jpg'},
+						{word: 'male_21.jpg'},
+						{word: 'male_22.jpg'},
+						{word: 'male_23.jpg'},
+						{word: 'male_24.jpg'},
+						{word: 'male_25.jpg'},
+						{word: 'male_26.jpg'},
+					],
+					//Stimulus css
+					stimulusCss : {color:'#31940F','font-size':'1.8em'}
+				},
+	
 
 		base_url : {//Where are your images at?
 			image : 'https://junkokanero.github.io/IAT/images/'
