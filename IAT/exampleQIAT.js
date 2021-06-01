@@ -83,7 +83,7 @@ attribute1 :	{
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-						{word: 'female_2.jpg'},
+						{image: 'female_2.jpg'},
 						{word: 'female_4.jpg'},
 						{word: 'female_5.jpg'},
 						{word: 'female_6.jpg'},
