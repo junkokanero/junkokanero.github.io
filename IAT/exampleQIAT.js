@@ -64,7 +64,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		attribute1 :	{
-				name : 'Kadın', //Will appear in the data.
+				name : 'Woman', //Will appear in the data.
 				title : {
 				media : {word : 'Kadın'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
@@ -94,7 +94,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 					stimulusCss : {color:'#31940F','font-size':'1.8em'}
 				},
 				attribute2 :	{
-				name : 'Erkek', //Will appear in the data.
+				name : 'Man', //Will appear in the data.
 				title : {
 				media : {word : 'Erkek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
