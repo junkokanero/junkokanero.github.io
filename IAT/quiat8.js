@@ -271,8 +271,8 @@
 				instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be asked to categorize items that belong to either category “Clothing” or “Tools” as well as faces that belong to either category “Female” or “Male”.' +
-					'Please put your left finger on E key and your right finger on I key.' +
+					'In this part, you will be asked to categorize items that belong to either category “Clothing” or “Tools” as well as faces that belong to either category “Female” or “Male”.<br/>' +
+					'Please put your left finger on E key and your right finger on I key.<br/>' +
 					'Use the <b>E</b> key for <font color="#336600">leftCategory</font> and for <font color="#0000ff">leftAttribute</font>.<br/>' +
 					'Use the <b>I</b> key for <font color="#336600">rightCategory</font> and for  <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Each item belongs to only one category.<br/><br/>' +
@@ -327,9 +327,9 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be again asked to categorize the items you see as “Clothing” or “Tools”.' +
+					'In this part, you will be again asked to categorize the items you see as “Clothing” or “Tools”.<br/>' +
 					'<b> Please watch out, the labels have changed position!</b><br/>' +
-					'Please put your left finger on E key and your right finger on I key.' +
+					'Please put your left finger on E key and your right finger on I key.<br/>' +
 					'Press the <b>E</b> key for <font color="#336600">leftCategory</font>.<br/>' +
 					'Press the <b>I</b> key for <font color="#336600">rightCategory</font>.<br/><br/>' +
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
