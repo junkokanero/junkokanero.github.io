@@ -4,9 +4,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 
 	return iatExtension({
 		category1 : {
-			name : 'Clothes', //Will appear in the data.
+			name : 'Clothing', //Will appear in the data.
 			title : {
-				media : {word : 'Clothes'}, //Name of the category presented in the task.
+				media : {word : 'Clothing'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -64,9 +64,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		attribute1 :	{
-				name : 'Woman', //Will appear in the data.
+				name : 'Female', //Will appear in the data.
 				title : {
-				media : {word : 'Kadın'}, //Name of the category presented in the task.
+				media : {word : 'Female'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -94,9 +94,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 					stimulusCss : {color:'#31940F','font-size':'1.8em'}
 				},
 				attribute2 :	{
-				name : 'Man', //Will appear in the data.
+				name : 'Male', //Will appear in the data.
 				title : {
-				media : {word : 'Erkek'}, //Name of the category presented in the task.
+				media : {word : 'Male'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
