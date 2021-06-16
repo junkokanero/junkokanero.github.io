@@ -33,9 +33,9 @@
 				},
 				//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 				category1 : {
-					name : 'clothes', //Will appear in the data and in the default feedback message.
+					name : 'Clothing', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'clothes'}, //Name of the category presented in the task.
+						media : {word : 'Clothing'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -50,10 +50,10 @@
 					//Stimulus css (style)
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
-				category2 :	{
-					name : 'tools', //Will appear in the data and in the default feedback message.
+				category2 : {
+					name : 'Tools', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'tools'}, //Name of the category presented in the task.
+						media : {word : 'Tools'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -69,9 +69,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				attribute1 :	{
-				name : 'Kadın', //Will appear in the data.
+				name : 'Woman', //Will appear in the data.
 				title : {
-				media : {word : 'Kadın'}, //Name of the category presented in the task.
+				media : {word : 'Woman'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -99,9 +99,9 @@
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 				attribute2 :	{
-				name : 'Erkek', //Will appear in the data.
+				name : 'Man', //Will appear in the data.
 				title : {
-				media : {word : 'Erkek'}, //Name of the category presented in the task.
+				media : {word : 'Man'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -209,8 +209,12 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Put a left finger on the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>' +
-					'<br/>Put a right finger on the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'In this part, you will be asked to categorize the items you see as “Clothing” or “Tools”.' +
+					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
+					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.' +
+					'Please put your left finger on E key and your right finger on I key.' +
+					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>' +
+					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
 					'Press the other key to continue.<br/>' +
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
