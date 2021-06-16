@@ -69,9 +69,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				attribute1 :	{
-				name : 'Woman', //Will appear in the data.
+				name : 'Female', //Will appear in the data.
 				title : {
-				media : {word : 'Woman'}, //Name of the category presented in the task.
+				media : {word : 'Female'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -99,9 +99,9 @@
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 				attribute2 :	{
-				name : 'Man', //Will appear in the data.
+				name : 'Male', //Will appear in the data.
 				title : {
-				media : {word : 'Man'}, //Name of the category presented in the task.
+				media : {word : 'Male'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -226,13 +226,16 @@
 						'</p>',
 						'<p align="left" style="margin-left:5px">',
 							'<br/>',
-							'Put a left finger over the the <b>left</b> green area for items that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>',
-							'Put a right finger over the <b>right</b> green area for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/>',
-							'Items will appear one at a time.<br/>',
-							'<br/>',
-							'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. Touch the other side. <u>Go as fast as you can</u> while being accurate.',
-						'</p>',
-						'<p align="center">Touch the <b>lower </b> green area to start.</p>',
+							'In this part, you will be asked to categorize the items you see as “Clothing” or “Tools”.' +
+					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
+					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.' +
+					'Please put your left finger on E key and your right finger on I key.' +
+					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>' +
+					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
+					'Press the other key to continue.<br/>' +
+					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
+					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
 					'</div>'
 				].join('\n'),
 	
