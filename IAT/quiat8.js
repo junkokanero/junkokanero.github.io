@@ -241,8 +241,8 @@
 					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.<br/>' +
 					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.<br/>' +
 					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>.<br/>' +
-					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
 					'Press the other key to continue.<br/>' +
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
