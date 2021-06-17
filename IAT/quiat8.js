@@ -237,8 +237,8 @@
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be asked to categorize the items you see as “Clothing” or “Tools”.<br/>' +
-					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.<br/>' +
+					'In this part, you will be asked to categorize the items you see as “Clothing” or “Tools”.' +
+					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
 					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.<br/>' +
 					'Please put your left finger on E key and your right finger on I key.<br/>' +
 					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>' +
@@ -304,6 +304,8 @@
 					'Use the <b>E</b> key for <font color="#336600">leftCategory</font> and for <font color="#0000ff">leftAttribute</font>.<br/>' +
 					'Use the <b>I</b> key for <font color="#336600">rightCategory</font> and for  <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Each item belongs to only one category.<br/><br/>' +
+					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
+					'Press the other key to continue.<br/>' + 
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
 					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
 				instSecondCombinedTouch:[
@@ -332,6 +334,8 @@
 					'Please put your left finger on E key and your right finger on I key.<br/>' +
 					'Press the <b>E</b> key for <font color="#336600">leftCategory</font>.<br/>' +
 					'Press the <b>I</b> key for <font color="#336600">rightCategory</font>.<br/><br/>' +
+					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
+					'Press the other key to continue.<br/>' + 
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
 					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
 				instSwitchCategoriesTouch: [
