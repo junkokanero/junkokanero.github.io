@@ -211,7 +211,7 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'In this part, you will be asked to categorize the faces you see as “Female” or “Male”.<br/>' +
 					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Press the <b>E</b> key for faces that belong to the category <font color="#0000ff">leftAttribute.</font>.<br/>' +
+					'Press the <b>E</b> key for faces that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>' +
 					'Press the <b>I</b> key for faces that belong to the category <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
 					'Press the other key to continue.<br/>' +
