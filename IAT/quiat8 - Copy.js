@@ -33,9 +33,9 @@
 				},
 				//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 				category1 : {
-					name : 'Clothing', //Will appear in the data and in the default feedback message.
+					name : 'Giysi', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Clothing'}, //Name of the category presented in the task.
+						media : {word : 'Giysi'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -51,9 +51,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				category2 : {
-					name : 'Tools', //Will appear in the data and in the default feedback message.
+					name : 'Araç', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Tools'}, //Name of the category presented in the task.
+						media : {word : 'Araç'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -69,9 +69,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				attribute1 :	{
-				name : 'Female', //Will appear in the data.
+				name : 'Kadın', //Will appear in the data.
 				title : {
-				media : {word : 'Female'}, //Name of the category presented in the task.
+				media : {word : 'Kadın'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -99,9 +99,9 @@
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 				attribute2 :	{
-				name : 'Male', //Will appear in the data.
+				name : 'Erkek', //Will appear in the data.
 				title : {
-				media : {word : 'Male'}, //Name of the category presented in the task.
+				media : {word : 'Erkek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
