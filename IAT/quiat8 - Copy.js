@@ -167,7 +167,7 @@
 
 				remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
 				'Hata yaptığınızda, ekranda kırmızı bir <font color="#ff0000"><b>X</b></font> gözükecektir. ' +
-				'Press the other key to continue.<p/>',
+				'Devam etmek için diğer tuşa basınız.<p/>',
 	
 
 				remindErrorTextTouch : '<p align="center" style="font-size:"1.4em"; font-family:arial">' +
