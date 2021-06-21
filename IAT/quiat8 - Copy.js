@@ -51,9 +51,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				category2 : {
-					name : 'Araç', //Will appear in the data and in the default feedback message.
+					name : 'Alet', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Araç'}, //Name of the category presented in the task.
+						media : {word : 'Alet'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "Or" in the combined block.
 					},
@@ -183,8 +183,8 @@
 				fontColor : '#000000', //The default color used for printed messages.
 				
 				//Text and style for key instructions displayed about the category labels.
-				leftKeyText : 'Press "E" for', 
-				rightKeyText : 'Press "I" for', 
+				leftKeyText : '"E" tuşuna basınız', 
+				rightKeyText : '"I" tuşuna basınız', 
 				keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 				//Text and style for the separator between the top and bottom category labels.
 				orText : 'or', 
@@ -209,14 +209,15 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be asked to categorize the faces you see as “Female” or “Male”.<br/>' +
-					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Press the <b>E</b> key for faces that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Press the <b>I</b> key for faces that belong to the category <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-					'Press the other key to continue.<br/>' +
-					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
-					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
+					'Bu bölümde sizden gördüğünüz insan yüzlerini "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
+					'Yüzler ekranda birer birer gözükecek.<br/>' +
+					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
+					'Devam etmek için diğer tuşa basınız.<br/>' +
+					'<u> Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instAttributePracticeTouch: [
 					'<div>',
 						'<p align="center">',
@@ -237,16 +238,17 @@
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be asked to categorize the items you see as “Clothing” or “Tools”.' +
-					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
-					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.<br/>' +
-					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
-					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-					'Press the other key to continue.<br/>' +
-					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
-					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
+					'Bu bölümde sizden gördüğünüz nesneleri “Kıyafet” ya da “Alet” olarak kategorilere ayırmanız istenecektir.' +
+					'"Kıyafet" kategorisi giysi ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
+					'"Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
+					'Yüzler ekranda birer birer gözükecek.<br/>' +
+					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
+					'Devam etmek için diğer tuşa basınız.<br/>' +
+					'<u> Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instCategoriesPracticeTouch: [
 					'<div>',
 						'<p align="center">',
