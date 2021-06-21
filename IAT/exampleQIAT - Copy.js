@@ -4,9 +4,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 
 	return iatExtension({
 		category1 : {
-			name : 'Clothing', //Will appear in the data.
+			name : 'Giysi', //Will appear in the data.
 			title : {
-				media : {word : 'Clothing'}, //Name of the category presented in the task.
+				media : {word : 'Giysi'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -34,9 +34,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		category2 :	{
-			name : 'Tools', //Will appear in the data.
+			name : 'Alet', //Will appear in the data.
 			title : {
-				media : {word : 'Tools'}, //Name of the category presented in the task.
+				media : {word : 'Alet'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -64,9 +64,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		attribute1 :	{
-				name : 'Female', //Will appear in the data.
+				name : 'Kadın', //Will appear in the data.
 				title : {
-				media : {word : 'Female'}, //Name of the category presented in the task.
+				media : {word : 'Kadın'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -94,9 +94,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 					stimulusCss : {color:'#31940F','font-size':'1.8em'}
 				},
 				attribute2 :	{
-				name : 'Male', //Will appear in the data.
+				name : 'Erkek', //Will appear in the data.
 				title : {
-				media : {word : 'Male'}, //Name of the category presented in the task.
+				media : {word : 'Erkek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
