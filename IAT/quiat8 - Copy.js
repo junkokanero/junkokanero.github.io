@@ -166,13 +166,13 @@
 	
 
 				remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
-				'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
+				'Hata yaptığınızda, ekranda kırmızı bir <font color="#ff0000"><b>X</b></font> gözükecektir. ' +
 				'Press the other key to continue.<p/>',
 	
 
 				remindErrorTextTouch : '<p align="center" style="font-size:"1.4em"; font-family:arial">' +
 				'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-				'Touch the other side to continue.<p/>',
+				'Devam etmek için diğer tuşa basınız.<p/>',
 	
 
 				errorCorrection : true, //Should participants correct error responses?
@@ -192,7 +192,7 @@
 				
 				instWidth : 99, //The width of the instructions stimulus
 				
-				finalText : 'Press space to continue to the next task', 
+				finalText : 'Bir sonraki aşamaya geçmek için boşluk tuşuna basınız', 
 				finalTouchText : 'Touch the bottom green area to continue to the next task',
 	
 
@@ -213,7 +213,7 @@
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
 					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#0000ff">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
-					'Yüzler ekranda birer birer gözükecek.<br/>' +
+					'Yüzler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					'Devam etmek için diğer tuşa basınız.<br/>' +
 					'<u> Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
@@ -238,16 +238,16 @@
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Bu bölümde sizden gördüğünüz nesneleri “Kıyafet” ya da “Alet” olarak kategorilere ayırmanız istenecektir.' +
-					'"Kıyafet" kategorisi giysi ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
+					'Bu bölümde sizden gördüğünüz nesneleri “Giysi” ya da “Alet” olarak kategorilere ayırmanız istenecektir.' +
+					'"Giysi" kategorisi kıyafet ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
 					'"Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
 					'<font color="#0000ff">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
-					'Yüzler ekranda birer birer gözükecek.<br/>' +
+					'Nesneler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					'Devam etmek için diğer tuşa basınız.<br/>' +
-					'<u> Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instCategoriesPracticeTouch: [
 					'<div>',
@@ -273,15 +273,15 @@
 				instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be asked to categorize items that belong to either category “Clothing” or “Tools” as well as faces that belong to either category “Female” or “Male”.<br/>' +
-					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Use the <b>E</b> key for <font color="#336600">leftCategory</font> and for <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Use the <b>I</b> key for <font color="#336600">rightCategory</font> and for  <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'Each item belongs to only one category.<br/><br/>' +
-					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-					'Press the other key to continue.<br/>' + 
-					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
-					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
+					'Bu bölümde sizden "Giysi" ve "Alet" kategorisine ait nesneler ile "Kadın" ve "Erkek" yüzlerini kategorilere ayırmanız istenecektir.<br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/>' +
+					'Her resim sadece bir kategoriye aittir.<br/><br/>' +
+					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
+					'Devam etmek için diğer tuşa basınız.<br/>' + 
+					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
+					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instFirstCombinedTouch:[
 					'<div>',
 						'<p align="center">',
@@ -302,14 +302,15 @@
 				instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'<p align="center">This is the same as the previous part.<br/>' +
-					'<p align="center">Use the <b>E</b> key for <font color="#336600">leftCategory</font> and for <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'<p align="center">Use the <b>I</b> key for <font color="#336600">rightCategory</font> and for  <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'<p align="center">Each item belongs to only one category.<br/><br/>' +
-					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-					'Press the other key to continue.<br/>' + 
-					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
-					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
+					'<p align="center">Bu böllüm biraz önceki bölümün aynısıdır.<br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/>' +
+					'Her resim sadece bir kategoriye aittir.<br/><br/>' +
+					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
+					'Devam etmek için diğer tuşa basınız.<br/>' + 
+					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
+					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSecondCombinedTouch:[
 					'<div>',
 						'<p align="center"><u>Part blockNum of nBlocks</u></p>',
@@ -331,15 +332,16 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'In this part, you will be again asked to categorize the items you see as “Clothing” or “Tools”.<br/>' +
-					'<b> Please watch out, the labels have changed position!</b><br/>' +
-					'Please put your left finger on E key and your right finger on I key.<br/>' +
-					'Press the <b>E</b> key for <font color="#336600">leftCategory</font>.<br/>' +
-					'Press the <b>I</b> key for <font color="#336600">rightCategory</font>.<br/><br/>' +
-					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
-					'Press the other key to continue.<br/>' + 
-					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>' +
-					'<p align="center">Press the <b>space bar</b> when you are ready to start.</font></p></div>',
+					'Bu bölümde sizden yeniden gördüğünüz resimleri “Giysi” ya da “Alet” olarak kategorilere ayırmanız istenecektir.<br/>' +
+					'<b>Lütfen dikkatli olunuz, kategorilerin yerleri değiştirilmiştir!</b><br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<font color="#336600">leftCategory</font> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightCategory</font> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
+					'Nesneler ekranda birer birer gözükecektir.<br/>' +
+					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
+					'Devam etmek için diğer tuşa basınız.<br/>' +
+					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSwitchCategoriesTouch: [
 					'<div>',
 						'<p align="center">',
