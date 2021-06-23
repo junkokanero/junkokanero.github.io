@@ -4,9 +4,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 
 	return iatExtension({
 		category1 : {
-			name : 'Giysi', //Will appear in the data.
+			name : 'Giyecek', //Will appear in the data.
 			title : {
-				media : {word : 'Giysi'}, //Name of the category presented in the task.
+				media : {word : 'Giyecek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
