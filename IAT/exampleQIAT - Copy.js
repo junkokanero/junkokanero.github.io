@@ -13,28 +13,28 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 			stimulusMedia : [ //Stimuli content as PIP's media objects
      		    ////grammatical gender = F, conceptual gender = F
 				{image : 'hairclip_F_F_M.jpg'}, 
-				{image : 'ring_F_F_M_N.jpg'}, 
-    			{image : 'skirt_F_F_M.jpg'}, 
+				{image : 'ring_F_F_M.jpg'}, 
+    				{image : 'skirt_F_F_M.jpg'}, 
     			////grammatical gender = F, conceptual gender = M
-    		    {image : 'belt_F_M_U.jpg'}, 
-    			{image : 'shirt_F_M_U.jpg'},
+    		  		{image : 'belt_F_M_U.jpg'}, 
+    				{image : 'shirt_F_M_U.jpg'},
 				{image : 'tie_F_M_U.jpg'},  
 				////grammatical gender = F, conceptual gender = N
-				{image : 'eyeglass_F_N.jpg'}, 
-    			{image : 'sock_F_N.jpg'}, 
-    			{image : 'watch_F_N.jpg'},
+				{image : 'eyeglass_F_N_N.jpg'}, 
+    				{image : 'sock_F_N_N.jpg'}, 
+    				{image : 'watch_F_N_N.jpg'},
     			////grammatical gender = M, conceptual gender = F
-    			{image : 'bag_M_F_U.jpg'}, 
-				{image : 'necktale_M_F_U_N.jpg'},  
-    			{image : 'swimsuit_M_F_U.jpg'},
+    				{image : 'bag_M_F_U.jpg'}, 
+				{image : 'necktale_M_F_U.jpg'},  
+    				{image : 'swimsuit_M_F_U.jpg'},
        			////grammatical gender = M, conceptual gender = M
-    		    {image : 'coat_M_M_M.jpg'}, 
-    			{image : 'hat_M_M_M.jpg'},  
-    			{image : 'suit_M_M_M.jpg'}, 
+    		   		{image : 'coat_M_M_M.jpg'}, 
+    				{image : 'hat_M_M_M.jpg'},  
+    				{image : 'suit_M_M_M.jpg'}, 
     			////grammatical gender = M, conceptual gender = N
-				{image : 'bonnet_M_N.jpg'},  
-    			{image : 'glove_M_N.jpg'},
-				{image : 'sweater_M_N.jpg'}, 
+				{image : 'bonnet_M_N_N.jpg'},  
+    				{image : 'glove_M_N_N.jpg'},
+				{image : 'sweater_M_N_N.jpg'}, 
     			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -49,29 +49,28 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    ////grammatical gender = F, conceptual gender = F
 				{image : 'tweezers_F_F_M.jpg'}, 
-    			{image : 'woodenspoon_F_F_M.jpg'},
+    				{image : 'woodenspoon_F_F_M.jpg'},
 				{image : 'pan_F_F_M.jpg'}, 
 				////grammatical gender = F, conceptual gender = M
 				{image : 'axe_F_M_U.jpg'}, 
 				{image : 'pliers_F_M_U.jpg'}, 
 				{image : 'drill_F_M_U.jpg'},
     		    ////grammatical gender = F, conceptual gender = N
-    			{image : 'spoon_F_N.jpg'},
-				{image : 'tooth_F_N.jpg'}, 
-				{image : 'fork_F_N.jpg'},
+    				{image : 'spoon_F_N_N.jpg'},
+				{image : 'tooth_F_N_N.jpg'}, 
+				{image : 'fork_F_N_N.jpg'},
 				////grammatical gender = M, conceptual gender = F
 				{image : 'blender_M_F_U.jpg'}, 
-    			{image : 'mixer_M_F_U.jpg'}, 
-    			{image : 'rollingpin_M_F_U.jpg'}, 
+    				{image : 'mixer_M_F_U.jpg'}, 
+    				{image : 'rollingpin_M_F_U.jpg'}, 
     			////grammatical gender = M, conceptual gender = M
-    			{image : 'screwdriver_M_M_M.jpg'},
-    			{image : 'hammer_M_M_M.jpg'}, 
-    			{image : 'metre_M_M_M.jpg'}, 
-    			{image : 'screwdriver_M_M_M.jpg'},
+    				{image : 'screwdriver_M_M_M.jpg'},
+    				{image : 'hammer_M_M_M.jpg'}, 
+    				{image : 'metre_M_M_M.jpg'}, 
     		    ////grammatical gender = M, conceptual gender = N
-    			{image : 'nailclipper_M_N.jpg'},
-				{image : 'bottleopener_M_N.jpg'},  
-    			{image : 'scissors_M_N.jpg'}, 
+    				{image : 'nailclipper_M_N_N.jpg'},
+				{image : 'bottleopener_M_N_N.jpg'},  
+    				{image : 'scissors_M_N_N.jpg'}, 
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
