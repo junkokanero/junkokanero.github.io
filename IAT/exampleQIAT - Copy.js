@@ -55,7 +55,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
     			{image : 'scissors_M_N_N.jpg'}, 
     			{image : 'screwdriver_M_M_M.jpg'},
     			{image : 'spoon_F_N_N.jpg'},
-				{image : 'tooth_F_N.jpg'}, 
+				{image : 'tooth_F_N_N.jpg'}, 
     			{image : 'tweezers_F_F_M.jpg'}, 
     			{image : 'woodenspoon_F_F_M.jpg'},
 				{image : 'fork_F_N_N.jpg'},
