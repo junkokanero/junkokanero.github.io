@@ -8,7 +8,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 			title : {
 				media : {word : 'Giyecek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
-				height : 4 //Used to position the "veya" in the combined block.
+				height : 4 //Used to position the "or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		   	{image : 'bag_M_F_U.jpg'}, 
@@ -68,7 +68,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 				title : {
 				media : {word : 'Kadın'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
-				height : 4 //Used to position the "veya" in the combined block.
+				height : 4 //Used to position the "or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{image: 'female_2.jpg'},
