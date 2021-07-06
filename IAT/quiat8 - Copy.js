@@ -72,7 +72,7 @@
 				name : 'Kadın', //Will appear in the data.
 				title : {
 				media : {word : 'Kadın'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -102,7 +102,7 @@
 				name : 'Erkek', //Will appear in the data.
 				title : {
 				media : {word : 'Erkek'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -242,8 +242,8 @@
 					'"Giyecek" kategorisi kıyafet ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
 					' "Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
 					'Nesneler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
