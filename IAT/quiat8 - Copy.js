@@ -37,7 +37,7 @@
 					title : {
 						media : {word : 'Giyecek'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
-						height : 4 //Used to position the "veya" in the combined block.
+						height : 4 //Used to position the "or" in the combined block.
 					},
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'Tyron'},
@@ -55,7 +55,7 @@
 					title : {
 						media : {word : 'Alet'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
-						height : 4 //Used to position the "veya" in the combined block.
+						height : 4 //Used to position the "or" in the combined block.
 					},
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'Jake'},
