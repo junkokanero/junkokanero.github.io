@@ -211,8 +211,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden gördüğünüz yüzleri "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#336600">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff"">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
 					'Yüzler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
@@ -225,8 +225,8 @@
 						'</p>',
 						'<p align="left" style="margin-left:5px">',
 							'<br/>',
-							'Put a left finger over the <b>left</b> green area for items that belong to the category <font color="#336600">leftCategory</font>.<br/>',
-							'Put a right finger over the <b>right</b> green area for items that belong to the category <font color="#336600">rightCategory</font>.<br/>',
+							'Put a left finger over the <b>left</b> green area for items that belong to the category <font color="#0000ff">leftCategory</font>.<br/>',
+							'Put a right finger over the <b>right</b> green area for items that belong to the category <font color="#0000ff">rightCategory</font>.<br/>',
 							'Items will appear one at a time.<br/>',
 							'<br/>',
 							'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. Touch the other side. <u>Go as fast as you can</u> while being accurate.',
@@ -242,8 +242,8 @@
 					'"Giyecek" kategorisi kıyafet ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
 					' "Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
 					'Nesneler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
@@ -260,8 +260,8 @@
 					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
 					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.' +
 					'Please put your left finger on E key and your right finger on I key.' +
-					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>' +
-					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'Press the <b>E</b> key for items that belong to the category <font color="#336600">leftAttribute.</font>' +
+					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#336600">rightAttribute</font>.<br/><br/>' +
 					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
 					'Press the other key to continue.<br/>' +
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
