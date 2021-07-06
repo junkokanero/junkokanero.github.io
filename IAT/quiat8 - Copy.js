@@ -187,7 +187,7 @@
 				rightKeyText : '"I" tuşuna basınız', 
 				keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 				//Text and style for the separator between the top and bottom category labels.
-				orText : 'or', 
+				orText : 'ya da', 
 				orCss : {'font-size':'1.8em', color:'#000000'},
 				
 				instWidth : 99, //The width of the instructions stimulus
