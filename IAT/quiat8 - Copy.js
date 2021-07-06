@@ -211,8 +211,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden gördüğünüz yüzleri "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
 					'Yüzler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
@@ -242,8 +242,8 @@
 					'"Giyecek" kategorisi kıyafet ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
 					' "Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
 					'Nesneler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
