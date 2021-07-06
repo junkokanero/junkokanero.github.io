@@ -391,7 +391,7 @@
 	        /**
 	        **** For Qualtrics
 	        */
-	        API.addSettings('onEnd', window.minnoJS.onEnd);
+	          API.addSettings('onEnd', window.minnoJS.onEnd);
 	
 
 			//For debugging the logger
@@ -411,9 +411,7 @@
 	            // Transform logs into a string
 	            // we save as CSV because qualtrics limits to 20K characters and this is more efficient.
 	            serialize: function (name, logs) {
-	                ////var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd'];
-					////Adding more items to the log headers
-					var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd','match'];
+	                var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd'];
 	                //console.log(logs);
 	                var myLogs = [];
 	                var iLog;
@@ -424,7 +422,7 @@
 	                        //console.log(logs[iLog]);
 	                        //console.log('---MISSING PROPERTIY---');
 	                    }
-	                    else if(!hasProperties(logs[iLog].data, ['block', 'condition', 'score', 'cong','match']))
+	                    else if(!hasProperties(logs[iLog].data, ['block', 'condition', 'score', 'cong']))
 	                    {
 	                        //console.log('---MISSING data PROPERTIY---');
 	                        //console.log(logs[iLog].data);
@@ -449,8 +447,7 @@
 	                        log.latency, //'rt'
 	                        '', //'d'
 	                        '', //'fb'
-	                        '', //'bOrd'
-							log.data.match //'match'
+	                        '' //'bOrd'
 	                        ]; });
 	                //console.log('mapped');
 	                //Add a line with the feedback, score and block-order condition
@@ -467,8 +464,7 @@
 	                            '', //'rt'
 	                            piCurrent.d, //'d'
 	                            piCurrent.feedback, //'fb'
-	                            block3Cond,//'bOrd'
-								'' //'match'
+	                            block3Cond //'bOrd'
 	                        ]);
 	                //console.log('added');
 	                        
@@ -1433,4 +1429,3 @@
 
 		return iatExtension;
 	});
-
