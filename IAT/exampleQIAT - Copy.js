@@ -7,7 +7,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 			name : 'Giyecek', //Will appear in the data.
 			title : {
 				media : {word : 'Giyecek'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#336600','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -31,13 +31,13 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 				{image : 'watch_F_N_N.jpg'},
     			], 
 			//Stimulus css (style)
-			stimulusCss : {color:'#31940F','font-size':'1.8em'}
+			stimulusCss : {color:'#336600','font-size':'1.8em'}
 		},	
 		category2 :	{
 			name : 'Alet', //Will appear in the data.
 			title : {
 				media : {word : 'Alet'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#336600','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -61,13 +61,13 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 				{image : 'fork_F_N_N.jpg'},
 			], 
 			//Stimulus css
-			stimulusCss : {color:'#31940F','font-size':'1.8em'}
+			stimulusCss : {color:'#336600','font-size':'1.8em'}
 		},	
 		attribute1 :	{
 				name : 'Kadın', //Will appear in the data.
 				title : {
 				media : {word : 'Kadın'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -91,13 +91,13 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 						{image: 'female_30.jpg'},
 					],
 					//Stimulus css
-					stimulusCss : {color:'#31940F','font-size':'1.8em'}
+					stimulusCss : {color:'#0000FF','font-size':'1.8em'}
 				},
 				attribute2 :	{
 				name : 'Erkek', //Will appear in the data.
 				title : {
 				media : {word : 'Erkek'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -121,7 +121,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - Copy.js'], functio
 						{image: 'male_26.jpg'},
 					],
 					//Stimulus css
-					stimulusCss : {color:'#31940F','font-size':'1.8em'}
+					stimulusCss : {color:'#0000FF','font-size':'1.8em'}
 				},
 	
 
