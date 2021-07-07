@@ -96,7 +96,7 @@
 						{image: 'female_30.jpg'},
 					],
 					//Stimulus css
-					stimulusCss : {color:'#0000FF','font-size':'1.8em'}
+					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 				attribute2 :	{
 				name : 'Erkek', //Will appear in the data.
@@ -126,7 +126,7 @@
 						{image: 'male_26.jpg'},
 					],
 					//Stimulus css
-					stimulusCss : {color:'#0000FF','font-size':'1.8em'}
+					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 	
 
