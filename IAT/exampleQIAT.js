@@ -4,71 +4,71 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 
 	return iatExtension({
 		category1 : {
-			name : 'Clothing', //Will appear in the data.
+			name : 'Giyecek', //Will appear in the data.
 			title : {
-				media : {word : 'Clothing'}, //Name of the category presented in the task.
+				media : {word : 'Giyecek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
-				height : 4 //Used to position the "Or" in the combined block.
+				height : 4 //Used to position the "or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		   	{image : 'bag_M_F_U.jpg'}, 
 				{image : 'belt_F_M_U.jpg'}, 
-    			{image : 'bonnet_M_N.jpg'},  
+    			{image : 'bonnet_M_N_N.jpg'},  
     			{image : 'coat_M_M_M.jpg'}, 
-    			{image : 'eyeglass_F_N.jpg'}, 
-    			{image : 'glove_M_N.jpg'},
+    			{image : 'eyeglass_F_N_N.jpg'}, 
+    			{image : 'glove_M_N_N.jpg'},
 				{image : 'hairclip_F_F_M.jpg'}, 
 				{image : 'hat_M_M_M.jpg'},  
-    			{image : 'necktale_M_F_U_N.jpg'},  
-    			{image : 'ring_F_F_M_N.jpg'}, 
+    			{image : 'necktale_M_F_U.jpg'},  
+    			{image : 'ring_F_F_M.jpg'}, 
     			{image : 'shirt_F_M_U.jpg'},
 				{image : 'skirt_F_F_M.jpg'}, 
-    			{image : 'sock_F_N.jpg'}, 
+    			{image : 'sock_F_N_N.jpg'}, 
     			{image : 'suit_M_M_M.jpg'}, 
-    			{image : 'sweater_M_N.jpg'}, 
+    			{image : 'sweater_M_N_N.jpg'}, 
     			{image : 'swimsuit_M_F_U.jpg'},
        			{image : 'tie_F_M_U.jpg'},  
-				{image : 'watch_F_N.jpg'},
+				{image : 'watch_F_N_N.jpg'},
     			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		category2 :	{
-			name : 'Tools', //Will appear in the data.
+			name : 'Alet', //Will appear in the data.
 			title : {
-				media : {word : 'Tools'}, //Name of the category presented in the task.
+				media : {word : 'Alet'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {image : 'axe_F_M_U.jpg'}, 
     			{image : 'blender_M_F_U.jpg'}, 
-    			{image : 'bottleopener_M_N.jpg'},  
+    			{image : 'bottleopener_M_N_N.jpg'},  
     			{image : 'drill_F_M_U.jpg'},
     			{image : 'hammer_M_M_M.jpg'}, 
     			{image : 'metre_M_M_M.jpg'}, 
     			{image : 'mixer_M_F_U.jpg'}, 
-    			{image : 'nailclipper_M_N.jpg'},
+    			{image : 'nailclipper_M_N_N.jpg'},
 				{image : 'pan_F_F_M.jpg'}, 
     			{image : 'pliers_F_M_U.jpg'}, 
     			{image : 'rollingpin_M_F_U.jpg'}, 
-    			{image : 'scissors_M_N.jpg'}, 
+    			{image : 'scissors_M_N_N.jpg'}, 
     			{image : 'screwdriver_M_M_M.jpg'},
-    			{image : 'spoon_F_N.jpg'},
-				{image : 'tooth_F_N.jpg'}, 
+    			{image : 'spoon_F_N_N.jpg'},
+				{image : 'tooth_F_N_N.jpg'}, 
     			{image : 'tweezers_F_F_M.jpg'}, 
     			{image : 'woodenspoon_F_F_M.jpg'},
-				{image : 'fork_F_N.jpg'},
+				{image : 'fork_F_N_N.jpg'},
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		attribute1 :	{
-				name : 'Female', //Will appear in the data.
+				name : 'Kadın', //Will appear in the data.
 				title : {
-				media : {word : 'Female'}, //Name of the category presented in the task.
+				media : {word : 'Kadın'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
-				height : 4 //Used to position the "Or" in the combined block.
+				height : 4 //Used to position the "or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{image: 'female_2.jpg'},
@@ -94,9 +94,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8.js'], function(APICo
 					stimulusCss : {color:'#31940F','font-size':'1.8em'}
 				},
 				attribute2 :	{
-				name : 'Male', //Will appear in the data.
+				name : 'Erkek', //Will appear in the data.
 				title : {
-				media : {word : 'Male'}, //Name of the category presented in the task.
+				media : {word : 'Erkek'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 

@@ -37,7 +37,7 @@
 					title : {
 						media : {word : 'Giyecek'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
-						height : 4 //Used to position the "Or" in the combined block.
+						height : 4 //Used to position the "or" in the combined block.
 					},
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'Tyron'},
@@ -55,7 +55,7 @@
 					title : {
 						media : {word : 'Alet'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
-						height : 4 //Used to position the "Or" in the combined block.
+						height : 4 //Used to position the "or" in the combined block.
 					},
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{word: 'Jake'},
@@ -72,7 +72,7 @@
 				name : 'Kadın', //Will appear in the data.
 				title : {
 				media : {word : 'Kadın'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'1.8em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -102,7 +102,7 @@
 				name : 'Erkek', //Will appear in the data.
 				title : {
 				media : {word : 'Erkek'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000FF','font-size':'1.8em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -187,7 +187,7 @@
 				rightKeyText : '"I" tuşuna basınız', 
 				keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 				//Text and style for the separator between the top and bottom category labels.
-				orText : 'or', 
+				orText : 'ya da', 
 				orCss : {'font-size':'1.8em', color:'#000000'},
 				
 				instWidth : 99, //The width of the instructions stimulus
@@ -209,10 +209,10 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Bu bölümde sizden gördüğünüz insan yüzlerini "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
+					'Bu bölümde sizden gördüğünüz yüzleri "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
 					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#0000ff"">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
 					'Yüzler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
@@ -225,8 +225,8 @@
 						'</p>',
 						'<p align="left" style="margin-left:5px">',
 							'<br/>',
-							'Put a left finger over the <b>left</b> green area for items that belong to the category <font color="#336600">leftCategory</font>.<br/>',
-							'Put a right finger over the <b>right</b> green area for items that belong to the category <font color="#336600">rightCategory</font>.<br/>',
+							'Put a left finger over the <b>left</b> green area for items that belong to the category <font color="#0000ff">leftCategory</font>.<br/>',
+							'Put a right finger over the <b>right</b> green area for items that belong to the category <font color="#0000ff">rightCategory</font>.<br/>',
 							'Items will appear one at a time.<br/>',
 							'<br/>',
 							'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. Touch the other side. <u>Go as fast as you can</u> while being accurate.',
@@ -242,8 +242,8 @@
 					'"Giyecek" kategorisi kıyafet ve aksesuar gibi insanların üzerlerine giydiği nesneleri kapsamaktadır.' +
 					' "Alet" kategorisi insanların ev dekorasyonu, yemek pişirme ya da kişisel bakım gibi alanlarda kullandığı bütün araç, gereç ve makineleri kapsamaktadır.<br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/>' +
 					'Nesneler ekranda birer birer gözükecektir.<br/>' +
 					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
 					' Devam etmek için diğer tuşa basınız.<br/>' +
@@ -260,8 +260,8 @@
 					'The category "Clothing" includes all items people wear on their body such as clothes and accessories.' +
 					'The category "Tools" includes all tools, utensils, and machines people use around the house for home improvement, cooking, and personal care.' +
 					'Please put your left finger on E key and your right finger on I key.' +
-					'Press the <b>E</b> key for items that belong to the category <font color="#0000ff">leftAttribute.</font>' +
-					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'Press the <b>E</b> key for items that belong to the category <font color="#336600">leftAttribute.</font>' +
+					'<br/>Press the <b>I</b> key for items that belong to the category <font color="#336600">rightAttribute</font>.<br/><br/>' +
 					'If you make a mistake, a red <font color="#ff0000"><b>X</b></font> will appear. ' +
 					'Press the other key to continue.<br/>' +
 					'<u>Go as fast as you can</u> while being accurate.<br/><br/></p>'+
@@ -391,7 +391,7 @@
 	        /**
 	        **** For Qualtrics
 	        */
-	        API.addSettings('onEnd', window.minnoJS.onEnd);
+	          API.addSettings('onEnd', window.minnoJS.onEnd);
 	
 
 			//For debugging the logger
@@ -411,9 +411,7 @@
 	            // Transform logs into a string
 	            // we save as CSV because qualtrics limits to 20K characters and this is more efficient.
 	            serialize: function (name, logs) {
-	                ////var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd'];
-					////Adding more items to the log headers
-					var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd','match'];
+	                var headers = ['block', 'trial', 'cond', 'comp', 'type', 'cat',  'stim', 'resp', 'err', 'rt', 'd', 'fb', 'bOrd'];
 	                //console.log(logs);
 	                var myLogs = [];
 	                var iLog;
@@ -424,7 +422,7 @@
 	                        //console.log(logs[iLog]);
 	                        //console.log('---MISSING PROPERTIY---');
 	                    }
-	                    else if(!hasProperties(logs[iLog].data, ['block', 'condition', 'score', 'cong','match']))
+	                    else if(!hasProperties(logs[iLog].data, ['block', 'condition', 'score', 'cong']))
 	                    {
 	                        //console.log('---MISSING data PROPERTIY---');
 	                        //console.log(logs[iLog].data);
@@ -449,8 +447,7 @@
 	                        log.latency, //'rt'
 	                        '', //'d'
 	                        '', //'fb'
-	                        '', //'bOrd'
-							log.data.match //'match'
+	                        '' //'bOrd'
 	                        ]; });
 	                //console.log('mapped');
 	                //Add a line with the feedback, score and block-order condition
@@ -467,8 +464,7 @@
 	                            '', //'rt'
 	                            piCurrent.d, //'d'
 	                            piCurrent.feedback, //'fb'
-	                            block3Cond,//'bOrd'
-								'' //'match'
+	                            block3Cond //'bOrd'
 	                        ]);
 	                //console.log('added');
 	                        
@@ -1433,4 +1429,3 @@
 
 		return iatExtension;
 	});
-
