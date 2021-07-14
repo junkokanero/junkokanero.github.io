@@ -239,7 +239,7 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”' +
-					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.<br/>'' +
+					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.<br/>' +
 					'La catégorie “Outils” inclue tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
