@@ -33,9 +33,9 @@
 				},
 				//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 				category1 : {
-					name : 'Giyecek', //Will appear in the data and in the default feedback message.
+					name : 'Habillement', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Giyecek'}, //Name of the category presented in the task.
+						media : {word : 'Habillement'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "or" in the combined block.
 					},
@@ -51,9 +51,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				category2 : {
-					name : 'Alet', //Will appear in the data and in the default feedback message.
+					name : 'Outils', //Will appear in the data and in the default feedback message.
 					title : {
-						media : {word : 'Alet'}, //Name of the category presented in the task.
+						media : {word : 'Outils'}, //Name of the category presented in the task.
 						css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 						height : 4 //Used to position the "or" in the combined block.
 					},
@@ -69,9 +69,9 @@
 					stimulusCss : {color:'#336600','font-size':'2.3em'}
 				},
 				attribute1 :	{
-				name : 'Kadın', //Will appear in the data.
+				name : 'Femme', //Will appear in the data.
 				title : {
-				media : {word : 'Kadın'}, //Name of the category presented in the task.
+				media : {word : 'Femme'}, //Name of the category presented in the task.
 				css : {color:'#0000FF','font-size':'1.8em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -99,9 +99,9 @@
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 				},
 				attribute2 :	{
-				name : 'Erkek', //Will appear in the data.
+				name : 'Homme', //Will appear in the data.
 				title : {
-				media : {word : 'Erkek'}, //Name of the category presented in the task.
+				media : {word : 'Homme'}, //Name of the category presented in the task.
 				css : {color:'#0000FF','font-size':'1.8em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -166,8 +166,8 @@
 	
 
 				remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
-				'Hata yaptığınızda, ekranda kırmızı bir <font color="#ff0000"><b>X</b></font> gözükecektir. ' +
-				'Devam etmek için diğer tuşa basınız.<p/>',
+				'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
+				'Appuyez sur l’autre touche pour continuer.<p/>',
 	
 
 				remindErrorTextTouch : '<p align="center" style="font-size:"1.4em"; font-family:arial">' +
@@ -183,16 +183,16 @@
 				fontColor : '#000000', //The default color used for printed messages.
 				
 				//Text and style for key instructions displayed about the category labels.
-				leftKeyText : '"E" tuşuna basınız', 
-				rightKeyText : '"I" tuşuna basınız', 
+				leftKeyText : 'Appuyez sur “E” ', 
+				rightKeyText : 'Appuyez sur “I” ', 
 				keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 				//Text and style for the separator between the top and bottom category labels.
-				orText : 'ya da', 
+				orText : 'ou', 
 				orCss : {'font-size':'1.8em', color:'#000000'},
 				
 				instWidth : 99, //The width of the instructions stimulus
 				
-				finalText : 'Bir sonraki aşamaya geçmek için boşluk tuşuna basınız', 
+				finalText : 'Appuyez sur la barre espace pour continuer à la tâche suivante.', 
 				finalTouchText : 'Touch the bottom green area to continue to the next task',
 	
 
@@ -209,15 +209,15 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Bu bölümde sizden gördüğünüz yüzleri "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/>' +
-					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff"">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/>' +
-					'Yüzler ekranda birer birer gözükecektir.<br/>' +
-					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
-					' Devam etmek için diğer tuşa basınız.<br/>' +
-					'<u> Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
-					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
+					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez appuyer sur la touche <b>I</b>pour les visages appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
+					'Les visages apparaîtront un à la fois.<br/>' +
+					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
+					' Appuyez sur l’autre touche pour continuer.<br/>' +
+					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
+					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
 					'<div>',
 						'<p align="center">',
