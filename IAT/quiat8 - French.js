@@ -192,7 +192,7 @@
 				
 				instWidth : 99, //The width of the instructions stimulus
 				
-				finalText : 'Appuyez sur la barre espace pour continuer à la tâche suivante.', 
+				finalText : 'Appuyez sur la barre espace pour continuer la tâche suivante.', 
 				finalTouchText : 'Touch the bottom green area to continue to the next task',
 	
 
