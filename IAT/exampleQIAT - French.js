@@ -94,9 +94,9 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - French.js'], funct
 					stimulusCss : {color:'#31940F','font-size':'1.8em'}
 				},
 				attribute2 :	{
-				name : 'Femme', //Will appear in the data.
+				name : 'Homme', //Will appear in the data.
 				title : {
-				media : {word : 'Femme'}, //Name of the category presented in the task.
+				media : {word : 'Homme'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
