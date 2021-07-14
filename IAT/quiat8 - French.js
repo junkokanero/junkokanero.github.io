@@ -167,7 +167,7 @@
 
 				remindErrorText : '<p align="center" style="font-size:"0.6em"; font-family:arial">' +
 				'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-				'Appuyez sur l’autre touche pour continuer.<p/>',
+				' Appuyez sur l’autre touche pour continuer.<p/>',
 	
 
 				remindErrorTextTouch : '<p align="center" style="font-size:"1.4em"; font-family:arial">' +
@@ -212,7 +212,7 @@
 					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez appuyer sur la touche <b>I</b>pour les visages appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
+					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Les visages apparaîtront un à la fois.<br/>' +
 					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
 					'Appuyez sur l’autre touche pour continuer.<br/>' +
@@ -239,11 +239,11 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”' +
-					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.' +
+					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.<br/>'' +
 					'La catégorie “Outils” inclue tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Les objets apparaîtront un à la fois.<br/>' +
 					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
 					'Appuyez sur l’autre touche pour continuer.<br/>' +
