@@ -238,9 +238,9 @@
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “habillement” ou “outils”' +
-					'La catégorie “habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.' +
-					'La catégorie “outils” inclue tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
+					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”' +
+					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.' +
+					'La catégorie “Outils” inclue tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
@@ -302,14 +302,14 @@
 				instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'<p align="center">Bu bölüm biraz önceki bölümün aynısıdır.<br/>' +
-					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/>' +
-					'Her resim sadece bir kategoriye aittir.<br/><br/>' +
-					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.<br/>' +
-					'Devam etmek için diğer tuşa basınız.<br/>' + 
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
-					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
+					'<p align="center">Cette section suit la même procédure que la section précédente.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> et <font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> et <font color="#0000ff">rightAttribute</font>.<br/>' +
+					'Chaque objet appartient à une seule catégorie.<br/><br/>' +
+					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
+					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
+					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSecondCombinedTouch:[
 					'<div>',
 						'<p align="center"><u>Part blockNum of nBlocks</u></p>',
@@ -331,16 +331,16 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Bu bölümde sizden yeniden gördüğünüz resimleri “Giyecek” ya da “Alet” olarak kategorilere ayırmanız istenecektir.<br/>' +
-					'<b>Lütfen dikkatli olunuz, kategorilerin yerleri değiştirilmiştir!</b><br/>' +
-					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
-					'<font color="#336600">leftCategory</font> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightCategory</font> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
-					'Nesneler ekranda birer birer gözükecektir.<br/>' +
-					'Hata yaptığınızda, ekranda kırmızı renkte bir <font color="#ff0000"><b>X</b></font> gözükecektir.' +
-					' Devam etmek için diğer tuşa basınız.<br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
-					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
+					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/>' +
+					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#336600">leftCategory</font>.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightCategory</font>.<br/><br/>' +
+					'Les objets apparaîtront un à la fois.<br/>' +
+					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
+					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
+					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSwitchCategoriesTouch: [
 					'<div>',
 						'<p align="center">',
