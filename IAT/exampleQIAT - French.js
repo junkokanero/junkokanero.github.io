@@ -67,7 +67,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - French.js'], funct
 				name : 'Femme', //Will appear in the data.
 				title : {
 				media : {word : 'Femme'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000ff','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -97,7 +97,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - French.js'], funct
 				name : 'Homme', //Will appear in the data.
 				title : {
 				media : {word : 'Homme'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#0000ff','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
