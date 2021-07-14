@@ -241,14 +241,14 @@
 					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”' +
 					'La catégorie “Habillement” inclue tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.<br/>'' +
 					'La catégorie “Outils” inclue tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Les objets apparaîtront un à la fois.<br/>' +
 					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font>rouge apparaitra.' +
 					'Appuyez sur l’autre touche pour continuer.<br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
-					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
+					'<p align="center"> Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instCategoriesPracticeTouch: [
 					'<div>',
 						'<p align="center">',
