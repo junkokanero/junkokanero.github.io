@@ -275,8 +275,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette partie, nous vous demanderons de répartir des objets dans les catégories “Habillement” et “Outils”, ainsi que de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
-					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> et <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> et <font color="#0000ff">rightAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> ou <font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Chaque objet appartient à une seule catégorie.<br/><br/>' +
 					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
 					'Appuyez sur l’autre touche pour continuer.<br/>' +
@@ -303,8 +303,8 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'<p align="center">Cette section suit la même procédure que la section précédente.<br/>' +
-					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> et <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> et <font color="#0000ff">rightAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> ou <font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/>' +
 					'Chaque objet appartient à une seule catégorie.<br/><br/>' +
 					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
 					'Appuyez sur l’autre touche pour continuer.<br/>' +
