@@ -318,8 +318,8 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/><br/>' +
-					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/><br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#336600">leftCategory</font>.<br/>' +
 					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightCategory</font>.<br/><br/><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
