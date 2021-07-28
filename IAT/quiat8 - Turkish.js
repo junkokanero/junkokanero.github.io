@@ -318,8 +318,8 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden yeniden gördüğünüz resimleri “Giyecek” veya “Alet” olarak kategorilere ayırmanız istenecektir.<br/>' +
-					'<b>Lütfen dikkatli olunuz, kategorilerin yerleri değiştirilmiştir!</b><br/>' +
-					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
+					'<b>Lütfen dikkatli olunuz, kategorilerin yerleri değiştirilmiştir!</b><br/><br/>' +
+					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
 					'<font color="#336600">leftCategory</font> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#336600">rightCategory</font> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
