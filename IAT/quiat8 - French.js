@@ -210,12 +210,9 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'Les visages apparaîtront un à la fois.<br/>' +
-					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
@@ -238,15 +235,10 @@
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”' +
-					'La catégorie “Habillement” inclut tous les objets qu’une personne peut porter sur elle, comme des vêtements ou accessoires par exemples.' +
-					'La catégorie “Outils” inclut tous les objets, ustensiles et machines que l’on peut utiliser à la maison pour du bricolage, la cuisine, ou soins personnels.<br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”.<br/><br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#336600">leftAttribute</font>.<br/>' +
-					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightAttribute</font>.<br/>' +
-					'Les objets apparaîtront un à la fois.<br/>' +
-					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightAttribute</font>.<br/><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
 					'<p align="center"> Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instCategoriesPracticeTouch: [
@@ -273,13 +265,10 @@
 				instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Dans cette partie, nous vous demanderons de répartir des objets dans les catégories “Habillement” et “Outils”, ainsi que de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
+					'Dans cette partie, nous vous demanderons de répartir des objets dans les catégories “Habillement” et “Outils”, ainsi que de répartir des visages selon les catégories “Femme” ou “Homme”.<br/><br/>' +
+					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> ou <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'Chaque objet appartient à une seule catégorie.<br/><br/>' +
-					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instFirstCombinedTouch:[
@@ -302,13 +291,10 @@
 				instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'<p align="center">Cette section suit la même procédure que la section précédente.<br/>' +
+					'<p align="center">Cette section suit la même procédure que la section précédente.<br/><br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour <font color="#336600">leftCategory</font> ou <font color="#0000ff">leftAttribute</font>.<br/>' +
-					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/>' +
-					'Chaque objet appartient à une seule catégorie.<br/><br/>' +
-					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-					'Appuyez sur l’autre touche pour continuer.<br/>' +
-					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
+					'Veuillez utiliser la touche <b>I</b> pour <font color="#336600">rightCategory</font> ou <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSecondCombinedTouch:[
 					'<div>',
@@ -331,14 +317,11 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/>' +
+					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/><br/>' +
 					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <font color="#336600">leftCategory</font>.<br/>' +
-					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightCategory</font>.<br/><br/>' +
-					'Les objets apparaîtront un à la fois.<br/>' +
-					'Si vous faites une erreur, un <font color="#ff0000"><b>X</b></font> rouge apparaitra.' +
-					'Appuyez sur l’autre touche pour continuer.<br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <font color="#336600">rightCategory</font>.<br/><br/><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSwitchCategoriesTouch: [
