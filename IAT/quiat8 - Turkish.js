@@ -213,7 +213,7 @@
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
 					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#0000ff"">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/><br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
+					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instAttributePracticeTouch: [
 					'<div>',
@@ -239,7 +239,7 @@
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
 					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/><br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instCategoriesPracticeTouch: [
 					'<div>',
@@ -269,7 +269,7 @@
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
 					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
+					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instFirstCombinedTouch:[
 					'<div>',
@@ -294,7 +294,7 @@
 					'<p align="center">Bu bölüm biraz önceki bölümün aynısıdır.<br/><br/>' +
 					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/>' +
+					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSecondCombinedTouch:[
 					'<div>',
@@ -322,7 +322,7 @@
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/>' +
 					'<font color="#336600">leftCategory</font> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
 					'<font color="#336600">rightCategory</font> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
-					'<u>Olabildiğince hızlı bir şekilde </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
+					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSwitchCategoriesTouch: [
 					'<div>',
