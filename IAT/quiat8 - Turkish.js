@@ -211,8 +211,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden gördüğünüz yüzleri "Kadın" veya "Erkek" olarak kategorilere ayırmanız istenecektir.<br/><br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
-					'<font color="#0000ff">leftAttribute</font> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#0000ff"">rightAttribute</font> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/><br/>' +
+					'<b><font color="#0000ff">leftAttribute</font><b> kategorisine ait yüzler için <b>E</b> tuşuna basınız.<br/>' +
+					'<b><font color="#0000ff"">rightAttribute</font><b> kategorisine ait yüzler için <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instAttributePracticeTouch: [
@@ -237,8 +237,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden gördüğünüz nesneleri “Giyecek” veya “Alet” olarak kategorilere ayırmanız istenecektir.<br/><br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
-					'<font color="#336600">leftAttribute</font> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightAttribute</font> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/><br/>' +
+					'<b><font color="#336600">leftAttribute</font><b> kategorisine ait nesneler için <b>E</b> tuşuna basınız.<br/>' +
+					'<b><font color="#336600">rightAttribute</font><b> kategorisine ait nesneler için <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instCategoriesPracticeTouch: [
@@ -267,8 +267,8 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Bu bölümde sizden "Giyecek" veya "Alet" kategorisine ait nesneler ile "Kadın" veya "Erkek" yüzlerini kategorilere ayırmanız istenecektir.<br/><br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
-					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
+					'<b><font color="#336600">leftCategory</font><b> ya da <b><font color="#0000ff">leftAttribute</font><b> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
+					'<b><font color="#336600">rightCategory</font><b> ya da <b><font color="#0000ff">rightAttribute</font><b> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instFirstCombinedTouch:[
@@ -292,8 +292,8 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'<p align="center">Bu bölüm biraz önceki bölümün aynısıdır.<br/><br/>' +
-					'<font color="#336600">leftCategory</font> ya da <font color="#0000ff">leftAttribute</font> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightCategory</font> ya da <font color="#0000ff">rightAttribute</font> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
+					'<b><font color="#336600">leftCategory</font><b> ya da <b><font color="#0000ff">leftAttribute</font><b> kategorileri için <b>E</b> tuşuna basınız.<br/>' +
+					'<b><font color="#336600">rightCategory</font><b> ya da <b><font color="#0000ff">rightAttribute</font><b> kategorileri için <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/>' +
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSecondCombinedTouch:[
@@ -320,8 +320,8 @@
 					'Bu bölümde sizden yeniden gördüğünüz resimleri “Giyecek” veya “Alet” olarak kategorilere ayırmanız istenecektir.<br/><br/>' +
 					'<b>Lütfen dikkatli olunuz, kategorilerin yerleri değiştirilmiştir!</b><br/><br/>' +
 					'Lütfen sol el parmağınızı klavyenizdeki E tuşunun üzerine, sağ el parmağınızı ise I tuşunun üzerine yerleştiriniz.<br/><br/>' +
-					'<font color="#336600">leftCategory</font> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
-					'<font color="#336600">rightCategory</font> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
+					'<b><font color="#336600">leftCategory</font><b> kategorisine ait nesneler için  <b>E</b> tuşuna basınız.<br/>' +
+					'<b><font color="#336600">rightCategory</font><b> kategorisine ait nesneler için  <b>I</b> tuşuna basınız.<br/><br/>' +
 					'<u>Olabildiğince hızlı bir şekilde, </u> doğru cevapları vermeye çalışınız.<br/><br/></p>'+
 					'<p align="center">Lütfen deneye başlayamaya hazır olduğunuzda, <b>boşluk tuşuna</b> basınız.</font></p></div>',
 				instSwitchCategoriesTouch: [
