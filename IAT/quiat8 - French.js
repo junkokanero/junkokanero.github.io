@@ -293,7 +293,7 @@
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'<p align="center">Cette section suit la même procédure que la section précédente.<br/><br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
-					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
+					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/><br/></b>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSecondCombinedTouch:[
