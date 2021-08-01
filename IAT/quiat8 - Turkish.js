@@ -192,7 +192,7 @@
 				
 				instWidth : 99, //The width of the instructions stimulus
 				
-				finalText : 'Bir sonraki aşamaya geçmek için boşluk tuşuna basınız', 
+				finalText : 'Bir sonraki aşamaya geçmek için boşluk tuşuna basınız.', 
 				finalTouchText : 'Touch the bottom green area to continue to the next task',
 	
 
