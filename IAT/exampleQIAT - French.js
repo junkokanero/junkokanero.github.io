@@ -13,16 +13,16 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - French.js'], funct
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		   	{image : 'bag_M_F_U.jpg'}, 
     			{image : 'bonnet_M_N_N.jpg'},   
-				{image : 'ring_F_F_M.jpg'}, 
-				{image : 'hat_M_M_M.jpg'},  
+			{image : 'ring_F_F_M.jpg'}, 
+			{image : 'hat_M_M_M.jpg'},  
     			{image : 'glove_M_N_N.jpg'},  
     			{image : 'shirt_F_M_U.jpg'},
-				{image : 'skirt_F_F_M.jpg'}, 
-    			{image : 'sock_F_N_N.jpg'}, 
+			{image : 'skirt_F_F_M.jpg'}, 
+    			{image : 'sock_F_N_N.png'}, 
     			{image : 'suit_M_M_M.jpg'}, 
     			{image : 'swimsuit_M_F_U.jpg'},
        			{image : 'tie_F_M_U.jpg'},  
-				{image : 'watch_F_N_N.jpg'},
+			{image : 'watch_F_N_N.jpg'},
     			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
