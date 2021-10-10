@@ -77,17 +77,17 @@
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
 						{image: 'female_2.jpg'},
-						{image: 'female_5.jpg'},
-						{image: 'female_6.jpg'},
 						{image: 'female_7.jpg'},
 						{image: 'female_9.jpg'},
-						{image: 'female_10.jpg'},
 						{image: 'female_13.jpg'},
 						{image: 'female_15.jpg'},
 						{image: 'female_16.jpg'},
 						{image: 'female_18.jpg'},
-						{image: 'female_19.jpg'},
 						{image: 'female_24.jpg'},
+						{image: 'female_26.jpg'},
+						{image: 'female_27.jpg'},
+						{image: 'female_28.jpg'},
+						{image: 'female_29.jpg'},
 					],
 					//Stimulus css
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -100,22 +100,18 @@
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-						{image: 'male_3.jpg'},
 						{image: 'male_4.jpg'},
-						{image: 'male_6.jpg'},
-						{image: 'male_7.jpg'},
 						{image: 'male_8.jpg'},
 						{image: 'male_9.jpg'},
-						{image: 'male_11.jpg'},
 						{image: 'male_12.jpg'},
 						{image: 'male_13.jpg'},
 						{image: 'male_14.jpg'},
-						{image: 'male_15.jpg'},
-						{image: 'male_18.jpg'},
 						{image: 'male_19.jpg'},
 						{image: 'male_21.jpg'},
 						{image: 'male_22.jpg'},
-						{image: 'male_24.jpg'},,
+						{image: 'male_24.jpg'},
+						{image: 'male_25.jpg'},
+						{image: 'male_26.jpg'},
 					],
 					//Stimulus css
 					stimulusCss : {color:'#0000FF','font-size':'2.3em'}
