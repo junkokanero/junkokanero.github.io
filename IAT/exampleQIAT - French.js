@@ -18,7 +18,7 @@ define(['pipAPI', 'https://junkokanero.github.io/IAT/quiat8 - French.js'], funct
     			{image : 'glove_M_N_N.jpg'},  
     			{image : 'shirt_F_M_U.jpg'},
 			{image : 'skirt_F_F_M.jpg'}, 
-    			{image : 'sock_F_N_N.jpg'}, 
+    			{image : 'sock_F_N_N.png'}, 
     			{image : 'suit_M_M_M.jpg'}, 
     			{image : 'swimsuit_M_F_U.jpg'},
        			{image : 'tie_F_M_U.jpg'},  
