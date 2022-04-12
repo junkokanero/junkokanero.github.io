@@ -198,7 +198,6 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
-				'DENEME.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">rightAttribute</font>.<br/><br/></b>' +
@@ -225,7 +224,8 @@
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”.<br/><br/>' +
-					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
+				'deneme<br/></p>'+
+				'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightAttribute</font>.<br/><br/></b>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
