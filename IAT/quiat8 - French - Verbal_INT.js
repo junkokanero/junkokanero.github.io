@@ -197,10 +197,13 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
+					'Veuillez être sûr d’avoir lancé l’enregistrement et d’avoir lu les instructions.<br/>' +
 					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">rightAttribute</font>.<br/><br/></b>' +
+					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes le part 1. Vous ne devez pas arrêter de la répéter jusqu’à ce que vous voyiez la page d’instruction suivante indiquant « Vous pouvez arrêter de répéter ».<br/>' +
+					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p><br/></b>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/><br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
