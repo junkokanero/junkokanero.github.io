@@ -197,7 +197,7 @@
 				instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'<p align="center"><b>« Vous pouvez arrêter de répéter »</b></font></p>'+
+					'« Vous pouvez arrêter de répéter ! »</b>'+
 					'Dans cette section, nous vous demanderons de répartir des visages selon les catégories “Femme” ou “Homme”.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
@@ -258,9 +258,10 @@
 				instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
+					'« Vous pouvez arrêter de répéter ! »</b>'+
 					'Dans cette partie, nous vous demanderons de répartir des objets dans les catégories “Habillement” et “Outils”, ainsi que de répartir des visages selon les catégories “Femme” ou “Homme”.<br/><br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/><br/>' +
-					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
 					'<p align="center"><b>PARTIR</b></font></p>'+
@@ -286,9 +287,9 @@
 				instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'p align="center">« Vous pouvez arrêter de répéter »</font></p>'+ 
+					'« Vous pouvez arrêter de répéter ! »</b>'+
 					'<p align="center">Cette section suit la même procédure que la section précédente.<br/><br/>' +
-					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
 					'<p align="center"><b>OFFRIR</b></font></p>'+
@@ -315,11 +316,11 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'p align="center">« Vous pouvez arrêter de répéter »</font></p>'+ 
+					'« Vous pouvez arrêter de répéter ! »</b>'+
 					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/><br/>' +
 					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/><br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
-					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftCategory</font>.<br/>' +
+					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftCategory</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightCategory</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
 					'<p align="center"><b>SORTIR</b></font></p>'+
