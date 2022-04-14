@@ -180,7 +180,7 @@
 				
 				instWidth : 99, //The width of the instructions stimulus
 				
-				finalText : 'Appuyez sur la barre espace pour continuer la tâche suivante.', 
+				finalText : 'Vous pouvez arrêter de répéter. Veuillez-vous assurer d’avoir sauvegardé l’enregistrement. Nous vous demanderons de nous envoyer l’enregistrement à la fin de l’étude. Appuyez sur la barre espace pour continuer la tâche suivante.', 
 				finalTouchText : 'Touch the bottom green area to continue to the next task',
 	
 
