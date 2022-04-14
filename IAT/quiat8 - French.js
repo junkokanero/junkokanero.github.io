@@ -287,7 +287,7 @@
 				instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'<p align="center">« Vous pouvez arrêter de répéter ! »</b>'+
+					'<p align="center">« Vous pouvez arrêter de répéter ! »<br/></b>'+
 					'<p align="center">Cette section suit la même procédure que la section précédente.<br/><br/>' +
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
