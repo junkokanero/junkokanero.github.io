@@ -257,7 +257,7 @@
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB1 + '<br/>' + VERB2 + '<br/>' + VERB3 + '<br/>' + VERB4 + '<br/>' + VERB5 + '<br/>'+ VERB6 + '<br/>' + VERB7 + '<br/>'</b></font><br/></p>'+
+					'<p align="center"><b>VERB1  + VERB2 + VERB3  + VERB4 + VERB5 +  VERB6 + VERB7 </b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center"> Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instCategoriesPracticeTouch: [
