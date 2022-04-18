@@ -203,7 +203,7 @@
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b></b>' +
-					'<p align="center"><b>VENIR</b></font><br/></p>'+
+					'<p align="center"><b>VERB1</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
@@ -231,7 +231,7 @@
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>ALLER</b></font><br/></p>'+
+					'<p align="center"><b>VERB2</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center"> Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instCategoriesPracticeTouch: [
@@ -264,7 +264,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>PARTIR</b></font><br/></p>'+
+					'<p align="center"><b>VERB3</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instFirstCombinedTouch:[
@@ -292,7 +292,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>OFFRIR</b></font><br/></p>'+
+					'<p align="center"><b>VERB4</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSecondCombinedTouch:[
@@ -323,7 +323,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftCategory</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightCategory</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>SORTIR</b></font><br/></p>'+
+					'<p align="center"><b>VERB5</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSwitchCategoriesTouch: [
@@ -354,7 +354,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>MENER</b></font><br/></p>'+
+					'<p align="center"><b>VERB6</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>', //this means that we're going to use the instFirstCombined property for the third combined block as well. You can change that.
 				instFourthCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
@@ -365,7 +365,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>CHERCHER</b></font><br/></p>'+
+					'<p align="center"><b>VERB7</b></font><br/></p>'+
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>', //this means that we're going to use the instSecondCombined property for the fourth combined block as well. You can change that.
 				instThirdCombinedTouch : 'instFirstCombined', //this means that we're going to use the instFirstCombined property for the third combined block as well. You can change that.
@@ -392,7 +392,35 @@
 			// extend the "current" object with the default
 			_.defaults(piCurrent, options, iatObj);
 			_.extend(API.script.settings, options.settings);
-	
+			
+			/** Randomization **\
+			
+			function()
+{
+//Assigning verbs to variables
+var VERB1 = 'VENIR'
+var VERB2 = 'ALLER'
+var VERB3 = 'PARTIR'
+var VERB4 = 'OFFRIR'
+var VERB5 = 'SORTIR'
+var VERB6 = 'MENER'
+var VERB7 = 'CHERCHER'
+
+//Make arrays for all verbs
+var arr = [VERB1,VERB2,VERB3,VERB4,VERB5,VERB6,VERB7];
+//Randomize the order of the verbs within the array (arrV)
+var i = arr.length, j, temp;
+               while(--i > 0){ j = Math.floor(Math.random() * (i+1));
+               temp = arr[j]; arr[j] = arr[i]; arr[i] = temp;}
+//Reassigning the randomly ordered verbs to the variables.
+VERB1 = arr[0]
+VERB2 = arr[1]
+VERB3 = arr[2]
+VERB4 = arr[3]
+VERB5 = arr[6]
+VERB6 = arr[7]
+VERB7 = arr[8]
+};
 
 	        /**
 	        **** For Qualtrics
