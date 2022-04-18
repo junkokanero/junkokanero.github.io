@@ -15,7 +15,33 @@
 			var scorer = new Scorer();
 			var piCurrent = API.getCurrent();
 	
-
+				//Assigning verbs to variables
+				var VERB1 = 'VENIR'
+				var VERB2 = 'ALLER'
+				var VERB3 = 'PARTIR'
+				var VERB4 = 'OFFRIR'
+				var VERB5 = 'SORTIR'
+				var VERB6 = 'MENER'
+				var VERB7 = 'CHERCHER'
+	
+				//Make arrays for all verbs
+				var arr = [VERB1,VERB2,VERB3,VERB4,VERB5,VERB6,VERB7];
+				//Randomize the order of the verbs within the array (arrV)
+				var i = arr.length, j, temp;
+					while(--i > 0)
+						{ 
+							j = Math.floor(Math.random() * (i+1));
+							temp = arr[j]; arr[j] = arr[i]; arr[i] = temp;
+						}
+				//Reassigning the randomly ordered verbs to the variables.
+				VERB1 = arr[0]
+				VERB2 = arr[1]
+				VERB3 = arr[2]
+				VERB4 = arr[3]
+				VERB5 = arr[4]
+				VERB6 = arr[5]
+				VERB7 = arr[6]
+					
 			//Here we set the settings of our task. 
 			//Read the comments to learn what each parameters means.
 			//You can also do that from the outside, with a dedicated jsp file.
@@ -225,7 +251,7 @@
 
 				instCategoriesPractice:  '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
-					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
+					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' + VERB1 +
 					'Dans cette section, nous vous demanderons de classer les objets que vous verrez en deux catégories: “Habillement” ou “Outils”.<br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
 					'Veuillez appuyer sur la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftAttribute</font>.<br/></b>' +
@@ -392,32 +418,7 @@
 			// extend the "current" object with the default
 			_.defaults(piCurrent, options, iatObj);
 			_.extend(API.script.settings, options.settings);
-	function()		
-{
-//Assigning verbs to variables
-var VERB1 = 'VENIR'
-var VERB2 = 'ALLER'
-var VERB3 = 'PARTIR'
-var VERB4 = 'OFFRIR'
-var VERB5 = 'SORTIR'
-var VERB6 = 'MENER'
-var VERB7 = 'CHERCHER'
 
-//Make arrays for all verbs
-var arr = [VERB1,VERB2,VERB3,VERB4,VERB5,VERB6,VERB7];
-//Randomize the order of the verbs within the array (arrV)
-var i = arr.length, j, temp;
-               while(--i > 0){ j = Math.floor(Math.random() * (i+1));
-               temp = arr[j]; arr[j] = arr[i]; arr[i] = temp;}
-//Reassigning the randomly ordered verbs to the variables.
-VERB1 = arr[0]
-VERB2 = arr[1]
-VERB3 = arr[2]
-VERB4 = arr[3]
-VERB5 = arr[4]
-VERB6 = arr[5]
-VERB7 = arr[6]
-};
 
 	        /**
 	        **** For Qualtrics
