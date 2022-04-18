@@ -393,8 +393,6 @@
 			_.defaults(piCurrent, options, iatObj);
 			_.extend(API.script.settings, options.settings);
 			
-			
-			function()
 {
 //Assigning verbs to variables
 var VERB1 = 'VENIR'
