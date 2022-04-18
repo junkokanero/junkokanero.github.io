@@ -393,7 +393,6 @@
 			_.defaults(piCurrent, options, iatObj);
 			_.extend(API.script.settings, options.settings);
 			
-			/** Randomization **\
 			
 			function()
 {
