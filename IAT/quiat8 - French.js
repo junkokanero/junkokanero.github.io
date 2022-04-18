@@ -392,7 +392,7 @@
 			// extend the "current" object with the default
 			_.defaults(piCurrent, options, iatObj);
 			_.extend(API.script.settings, options.settings);
-			
+	function()		
 {
 //Assigning verbs to variables
 var VERB1 = 'VENIR'
@@ -414,9 +414,9 @@ VERB1 = arr[0]
 VERB2 = arr[1]
 VERB3 = arr[2]
 VERB4 = arr[3]
-VERB5 = arr[6]
-VERB6 = arr[7]
-VERB7 = arr[8]
+VERB5 = arr[4]
+VERB6 = arr[5]
+VERB7 = arr[6]
 };
 
 	        /**
