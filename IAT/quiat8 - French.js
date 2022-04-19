@@ -229,7 +229,7 @@
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b></b>' +
-					VERB1 +
+					'<p align="center"><b>' + VERB2 + '</b><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
@@ -291,7 +291,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB3</b></font><br/></p>'+
+					'<p align="center"><b>' + VERB3 + '</b><br/>' + 
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instFirstCombinedTouch:[
@@ -319,7 +319,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB4</b></font><br/></p>'+
+					'<p align="center"><b>' + VERB4 + '</b><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSecondCombinedTouch:[
@@ -350,7 +350,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour les objets appartenant à la catégorie <b><font color="#336600">leftCategory</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour les objets appartenant à la catégorie <b><font color="#336600">rightCategory</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB5</b></font><br/></p>'+
+					'<p align="center"><b>' + VERB5 + '</b><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instSwitchCategoriesTouch: [
@@ -381,7 +381,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB6</b></font><br/></p>'+
+					'<p align="center"><b>' + VERB6 + '</b><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>', //this means that we're going to use the instFirstCombined property for the third combined block as well. You can change that.
 				instFourthCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
@@ -392,7 +392,7 @@
 					'Veuillez utiliser la touche <b>E</b> pour <b><font color="#336600">leftCategory</font></b> ou <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez utiliser la touche <b>I</b> pour <b><font color="#336600">rightCategory</font></b> ou <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b>' +
-					'<p align="center"><b>VERB7</b></font><br/></p>'+
+					'<p align="center"><b>' + VERB7 + '</b><br/>' +
 					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>', //this means that we're going to use the instSecondCombined property for the fourth combined block as well. You can change that.
 				instThirdCombinedTouch : 'instFirstCombined', //this means that we're going to use the instFirstCombined property for the third combined block as well. You can change that.
