@@ -229,8 +229,11 @@
 					'Veuillez appuyer sur la touche <b>E</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">leftAttribute</font>.<br/></b>' +
 					'Veuillez appuyer sur la touche <b>I</b> pour les visages appartenant à la catégorie <b><font color="#0000ff">rightAttribute</font>.<br/></b>' +
 					'Veuillez répéter le mot ci-dessous à voix haute. Vous devrez continuer à répéter ce mot durant toutes la partie.<br/></b></b>' +
-					<p align="center">VERB1.bold()</p> +
-					'<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
+					<style type="text/css">
+          					text-align: center;
+							VERB1.bold()
+        			</style>
+					+ '<u> Allez aussi loin que possible </u> en essayant d’être précis.<br/></p>'+
 					'<p align="center">Appuyez sur <b>la barre espace</b> quand vous êtes prêt à commencer.</font></p></div>',
 				instAttributePracticeTouch: [
 					'<div>',
