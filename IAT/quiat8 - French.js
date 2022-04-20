@@ -342,7 +342,7 @@
 				instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
 					'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 					'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
-					'« Vous pouvez arrêter de répéter ! »</b></b>'+
+					'« Vous pouvez arrêter de répéter ! »<br/></b>'+
 					'Dans cette partie, vous devrez à nouveau associer les objets que vous verrez aux catégories “Habillement” et “Outils.<br/>' +
 					'<b>Veuillez faire attention, ces catégories ont changé de position!</b><br/>' +
 					'Veuillez positionner votre doigt gauche sur la touche E et votre doigt de droite sur la touche I de votre clavier.<br/>' +
