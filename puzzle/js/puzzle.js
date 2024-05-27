@@ -183,7 +183,7 @@ const gameBoard = {
     // Initiate the playing areas (space for scrambled pieces, and the actual puzzle board)
     initSpaces: function () {
         this.boardSpace = new Rectangle(0, 0, Math.max(this.canvas.width, this.MAX_PUZZLE_WIDTH), this.MAX_PUZZLE_HEIGHT + this.pieceSize);
-        this.pieceSpace = new Rectangle(0, this.boardSpace.left, Math.max(this.canvas.width, this.MAX_PUZZLE_WIDTH), this.canvas.height);
+        this.pieceSpace = new Rectangle(0, this.boardSpace.bottom, Math.max(this.canvas.width, this.MAX_PUZZLE_WIDTH), this.canvas.height);
     },
 
     getPlayingBoard: function () {
