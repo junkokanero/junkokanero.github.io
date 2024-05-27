@@ -404,11 +404,3 @@ const gameBoard = {
     }
 };
 
-doWinShow: function () {
-    let congratsDiv = document.getElementById('congrats');
-    congratsDiv.style.display = 'block';
-    congratsDiv.classList.add('slidedown');
-
-    // Send a message to the parent window (Qualtrics) that the game is completed
-    window.parent.postMessage('gameCompleted', '*');
-}
